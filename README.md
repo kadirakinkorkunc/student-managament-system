@@ -1,6 +1,6 @@
-# studentManagamentSystem
-Developed with Java Spring Boot <br> 
-Just server-side for now, it will be updated soon for potential bug fixes and client-side.
+
+# Developed with Java Spring Boot <br> 
+Just server-side for now, it will be updated soon for potential bug fixes and client-side. <br>
 Project can be tested on Postman or similar third party applications.
 Server port is 8090.
 
